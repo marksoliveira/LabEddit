@@ -11,19 +11,19 @@ Register e outras) que são as páginas em si do projeto.
 O projeto consiste em um modelo de rede social, com cadastro, login, posts,
 likes e comentários.
 
-### Página de Login
+- Página de Login
 
 A página de login possui dois campos de texto: email e senha, ao fazer o login, 
 o usuário será redirecionado para a página de feed.
 A página possui também um botão "Criar conta", que leva o usuário para a página 
 de cadastro.
 
-### Página de Cadastro
+- Página de Cadastro
 
 A página de cadastro possui 3 campos: nome de usuário, email e senha, após 
 cadastrar, o usuário será redirecionado para a página de feed.
 
-### Página de Feed
+- Página de Feed
 
 A página de feed deverá mostrar todos os posts, além de um formulário para 
 a criação de post.
@@ -35,7 +35,7 @@ e o número de comentários.
 Quando o usuário clicar em um post, ele será ser redirecionado para a 
 página do respectivo post.
 
-### Página de Post
+- Página de Post
 
 A página de post mostrará o mesmo post da página de feed que o usuário 
 clicou anteriormente, com o usuário, texto, curtidas e número de comentários.
