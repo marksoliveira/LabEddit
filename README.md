@@ -25,7 +25,7 @@ cadastrar, o usuário será redirecionado para a página de feed.
 
 - Página de Feed
 
-A página de feed deverá mostrar todos os posts, além de um formulário para 
+A página de feed mostrará todos os posts, além de um formulário para 
 a criação de post.
 Essa página só poderá ser acessada por um usuário logado. Caso o usuário não 
 esteja logado, será redirecionado para a página de login.
