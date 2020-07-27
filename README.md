@@ -27,9 +27,9 @@ cadastrar, o usuário será redirecionado para a página de feed.
 
 A página de feed mostrará todos os posts, além de um formulário para 
 a criação de post.
-Essa página só poderá ser acessada por um usuário logado. Caso o usuário não 
-esteja logado, será redirecionado para a página de login.
-O formulário possui apenas um campo de texto e cada post mostrará o nome de 
+Essa página só é acessada por um usuário logado. Caso contrário, será 
+redirecionado para a página de login.
+O formulário possui um campo de texto e cada post mostrará o nome de 
 usuário que postou, o texto do post, o número de votos (positivo ou negativo) 
 e o número de comentários.
 Quando o usuário clicar em um post, ele será ser redirecionado para a 
