@@ -39,9 +39,8 @@ do respectivo post.
 
 A página de post mostrará o mesmo post da página de feed que o usuário 
 clicou anteriormente, com o usuário, texto, curtidas e número de comentários.
-Essa página também só poderá ser acessada por um usuário logado. Caso o usuário 
-não esteja logado, será redirecionado para a página de login.
-Abaixo, terá um formulário para criação de comentários e os cards de comentários.
+Essa página também só poderá ser acessada por um usuário logado. Se não, será 
+redirecionado para a página de login.
 
 Há integrações com APIs externas. Bibliotecas: axios, styled-components e 
 material-ui
