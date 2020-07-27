@@ -32,8 +32,8 @@ redirecionado para a página de login.
 O formulário possui um campo de texto e cada post mostrará o nome de 
 usuário que postou, o texto do post, o número de votos (positivo ou negativo) 
 e o número de comentários.
-Quando o usuário clicar em um post, ele será ser redirecionado para a 
-página do respectivo post.
+Quando o usuário clicar em um post, ele será redirecionado para a página 
+do respectivo post.
 
 - Página de Post
 
